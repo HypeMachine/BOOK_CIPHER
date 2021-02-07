@@ -1,9 +1,0 @@
-﻿  Book_cipher.cpp
-c:\users\sas\documents\visual studio 2015\projects\book cipher\book cipher\book_cipher.cpp(49): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\sas\documents\visual studio 2015\projects\book cipher\book cipher\book_cipher.cpp(57): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\sas\documents\visual studio 2015\projects\book cipher\book cipher\book_cipher.cpp(69): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\sas\documents\visual studio 2015\projects\book cipher\book cipher\book_cipher.cpp(83): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\sas\documents\visual studio 2015\projects\book cipher\book cipher\book_cipher.cpp(95): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\sas\documents\visual studio 2015\projects\book cipher\book cipher\book_cipher.cpp(104): warning C4018: <: несоответствие типов со знаком и без знака
-  Book cipher.vcxproj -> C:\Users\sas\Documents\Visual Studio 2015\Projects\Book cipher\Debug\Book cipher.exe
-  Book cipher.vcxproj -> C:\Users\sas\Documents\Visual Studio 2015\Projects\Book cipher\Debug\Book cipher.pdb (Full PDB)
